@@ -10,12 +10,12 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "@nrwl/cli": "12.10.1",
-    "@nrwl/nx-cloud": "latest",
-    "@nrwl/tao": "12.10.1",
-    "@nrwl/workspace": "12.10.1",
+    "@nrwl/cli": "14.5.1",
+    "@nrwl/nx-cloud": "14.2.0",
+    "@nrwl/workspace": "14.5.1",
     "@types/node": "14.14.33",
-    "prettier": "^2.3.1",
-    "typescript": "~4.3.5"
+    "prettier": "2.6.2",
+    "typescript": "4.7.4",
+    "nx": "14.5.1"
   }
 }

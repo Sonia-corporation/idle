@@ -20,7 +20,8 @@
           "test",
           "e2e"
         ],
-        "accessToken": "N2IwMmFiYzQtNTQxMC00NmRiLTkyNDQtMDM4MjhlZDZhZTFmfHJlYWQtd3JpdGU="
+        "accessToken": "N2IwMmFiYzQtNTQxMC00NmRiLTkyNDQtMDM4MjhlZDZhZTFmfHJlYWQtd3JpdGU=",
+        "parallel": 1
       }
     }
   },
@@ -32,5 +33,7 @@
       }
     ]
   },
-  "projects": {}
+  "cli": {
+    "defaultCollection": "@nrwl/workspace"
+  }
 }
